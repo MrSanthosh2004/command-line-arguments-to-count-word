@@ -43,6 +43,11 @@ f.close()
 ```
 ### OUTPUT:
 
+Text:
+!['output'](/cmd%20text.png)
+
+Output:
+!['output'](/cmd%20output.png)
 
 
 ## RESULT:
